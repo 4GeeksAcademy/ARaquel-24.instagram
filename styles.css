@@ -1,0 +1,40 @@
+
+body{background: black;}
+.post{
+    background: white;
+    width: 390px;
+    position: absolute;
+    margin: 15%;
+    left: 130px;
+    top: 5%;
+}
+.text{
+   p{margin: 0;}
+   margin: 10px;
+   
+}
+.puntos, .text, .logo, .popst-icons, .bookmark{
+    display: inline-block;
+    
+}
+.logo{
+    font-size: 25px;
+    margin: 3px 10px 10px;
+    width: 10px;
+
+}
+.puntos{
+    font-size: 25px;
+    margin: 10px 10px 10px 240px;
+}
+.popst-icons{
+    margin: 10px;
+    font-size: 30px;
+}
+.bookmark{
+    font-size: 30px;
+    margin: 3px 10px 10px 220px;
+}
+p{margin: 10px;
+    font-size: 15px;
+}
